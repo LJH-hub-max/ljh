@@ -5,7 +5,7 @@ import csv
 from pathlib import Path
 
 # ========== 配置 ==========
-RAW_DATA_DIR = "../FJSP-benchmarks"   # 原始数据根目录（相对路径）
+RAW_DATA_DIR = "data"                 # ✅ 因为原始数据就在 data/ 下 # 原始数据根目录（相对路径）
 OUTPUT_DIR = "data"                   # 输出目录
 INDEX_CSV = os.path.join(OUTPUT_DIR, "index.csv")
 DETAILS_JSON = os.path.join(OUTPUT_DIR, "instances.json")
