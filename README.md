@@ -1,3 +1,6 @@
 # ljh
 课程设计代码仓库
 下面的是我在GitHub中获取到的实例数据
+
+[InternetShortcut]
+URL=https://github.com/LJH-hub-max/ljh/blob/main/data/index.csv
